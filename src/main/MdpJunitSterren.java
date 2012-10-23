@@ -28,13 +28,6 @@ public class MdpJunitSterren implements MdpJunitDemo {
 				s = s + " ";
 			}
 		}
-
-		//		for(int i=0; i<strings.length; i++){
-		//			s = s+strings[i];
-		//			if(i< (strings.length-1)){
-		//				s = s + " ";
-		//			}
-		//		}
 		return s;
 	}
 
